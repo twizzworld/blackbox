@@ -58,3 +58,29 @@ a {
   font-size: 10vw;
   font-family: "Anurati";
 }
+
+li:hover{
+  cursor: pointer;
+
+}
+
+footer ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  flex-wrap: wrap;
+}
+
+footer li {
+  list-style: none;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+a {
+  padding-right: 10px;
+  cursor: pointer;
+  pointer-events: all;
+  color: white;
+  text-decoration: none; /* no underline */
+}
