@@ -33,8 +33,8 @@ export function Overlay() {
                     textAlign: "center",
                 }}>
             <div>
-              <div class="hheader">BLACKBOX</div>
-               <div style={{fontFamily: "Helvetica Neue", fontSize: "24px", fontWeight: "200"}}>AI-POWERED DIGITAL SECURITY SERVICES</div> 
+              <div class="hheader">CORESight</div>
+               <div style={{fontFamily: "Helvetica Neue", fontSize: "24px", fontWeight: "200"}}>AI-POWERED MEDICAL DIAGNOSTICS. DEVELOPED BY IMAGENICA LABS.</div> 
             </div>
             </div>
         </div>
@@ -46,7 +46,7 @@ export function Overlay() {
         
       <footer style={{ position: "absolute", bottom: 20, right: 20, display: "flex", flexDirection: "row"}}>
         <ul style={{ flex: "1 1 0%", fontSize: 12, lineHeight: "1em", textAlign: "right", color: "white" }}>
-          <li><a href="mailto:twizzwrrld@gmail.com">CONTACT</a></li>
+          <li><a href="mailto:imagenica@proton.me">CONTACT</a></li>
         </ul>
     
       </footer>
