@@ -33,7 +33,7 @@ export function Overlay() {
                     textAlign: "center",
                 }}>
             <div>
-              <div class="hheader"><u>CORES</u>IGHT</div>
+              <div class="hheader">CORESIGHT</div>
                <div style={{fontFamily: "Helvetica Neue", fontSize: "24px", fontWeight: "200"}}>AI-POWERED MEDICAL DIAGNOSTICS. DEVELOPED BY IMAGENICA LABS.</div> 
             </div>
             </div>
